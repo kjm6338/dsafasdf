@@ -1,3 +1,9 @@
-span.a-badge i.fa.fa-star {
-    animation: binglebingle 2s infinite;
+#article-list-row-2307483 {
+    background-image: url(https://chogether.github.io/tgd/images/notice-game.png)!important;
+    background-position: 50% 50%!important;
+}
+
+#article-list-row-2307378 {
+    background-image: url(https://chogether.github.io/tgd/images/notice-gift.png)!important;
+    background-position: 50% 50%!important;
 }
