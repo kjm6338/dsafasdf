@@ -1,9 +1,7 @@
-#article-list-row-2307483 {
-    background-image: url(https://chogether.github.io/tgd/images/notice-game.png)!important;
-    background-position: 50% 50%!important;
-}
+/* base */
 
-#article-list-row-2307378 {
-    background-image: url(https://chogether.github.io/tgd/images/notice-gift.png)!important;
-    background-position: 50% 50%!important;
-}
+@import url('https://cdn.rawgit.com/innks/NanumSquareRound/master/nanumsquareround.min.css');
+/* @import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+@import url(//cdn.rawgit.com/hiun/NanumSquare/master/nanumsquare.css);
+@import url('https://cdn.rawgit.com/innks/NanumSquareRound/master/nanumsquareround.min.css');
+*/
